@@ -2,7 +2,7 @@
 
 ## Preamble
 
-*File Assistant* is a product provided by *pangdx* (hereinafter referred to as "we"). When you use our services, we may collect and use your relevant information. Through this "Privacy Policy," we aim to explain to you how we collect, use, store, and share this information when you use our services, as well as the ways we provide for you to access, update, control, and protect this information. This "Privacy Policy" is closely related to the *File Assistant* service you use. We hope you read it carefully and make appropriate choices according to the guidance in this "Privacy Policy" when needed. We try to express the relevant technical terms in this "Privacy Policy" as concisely as possible and provide links for further explanation to help you understand.
+*PR File Manager* is a product provided by *pangdx* (hereinafter referred to as "we"). When you use our services, we may collect and use your relevant information. Through this "Privacy Policy," we aim to explain to you how we collect, use, store, and share this information when you use our services, as well as the ways we provide for you to access, update, control, and protect this information. This "Privacy Policy" is closely related to the *File Assistant* service you use. We hope you read it carefully and make appropriate choices according to the guidance in this "Privacy Policy" when needed. We try to express the relevant technical terms in this "Privacy Policy" as concisely as possible and provide links for further explanation to help you understand.
 
 **By using or continuing to use our services, you agree that we may collect, use, store, and share your relevant information in accordance with this "Privacy Policy."**
 
